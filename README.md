@@ -48,7 +48,7 @@ These attributes are combined into a single feature vector for recommendation ge
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/CineMatch.git
+git clone https://github.com/dikshantsk01/CineMatch.git
 cd CineMatch
 ```
 
